@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ouo/gpio_raspberrypi_tb3_ws/install/setup.sh
